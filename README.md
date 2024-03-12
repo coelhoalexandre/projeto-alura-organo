@@ -21,7 +21,11 @@
 
 ## Sobre o Projeto
 
+Esse projeto foi realizado em dois cursos, [React: desenvolvendo com JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript) e [React: como os componentes funcionam](https://cursos.alura.com.br/course/react-componentes-funcionam), onde no primeiro foca em iniciar o projeto e o segundo aprimorar ele.
 
+Os instrurores do primeiro curso são: [**Paulo Silveira**](https://github.com/peas), CEO e cofundador da Alura, e [**Vinicios Neves**](https://github.com/viniciosneves), engenheiro de software. Já o instrutor do segundo curso é: [**Luiz Fernando**](https://github.com/lfrprazeres), Engenheiro de Software.
+
+Esses cursos focam em ensinar o básico do react e o necessario para iniciar as primeiras aplicações React.
 
 ## Objetivos do Projeto
 
