@@ -29,11 +29,39 @@ Esses cursos focam em ensinar o básico do react e o necessario para iniciar as 
 
 ## Objetivos do Projeto
 
-
+- Fazer uma aplicação React com Create React App do zero;
+- Aprender as vantagens da utilização do React;
+- Implementar componentes reativos;
+- Modificar e evoluir componentes de acordo com as necessidades do projeto;
+- Entender como os componentes React funcionam;
+- Alterar códigos existentes, adicionando novas features e refatorando o código. 
 
 ## Funcionalidades do Projeto
 
+<div align="center">
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/organo-formulario-do-colaborador.png" alt="Formulario de Dados para novo colaborador" height="330px"> <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/organo-formulario-do-time.png" alt="Formulario de Dados para novo time" height="330px">
+</div>
 
+<br>
+
+- **Campos de Texto:** Devem ser preenchidos e podem ser preenchidos por qualquer coisa. Obs.: O endereço da imagem deve ser um link valido como imagem para funcionar, como https://github.com/coelhoalexandre.png.
+- **Time:** Deve ser escolhido dentre um dos times dados como opção. Caso deixe a opção padrão "Escolha um", aparecerá um alert informando: "Você deve escolher um Time da lista.".
+- **Cargo:** Permite escolher uma cor de livre escolha.
+- **Criar Card:** Ao ser pressionado, fará com que os inputs sejam apagados e os dados sejam enviados para a seção do time respectivo com os dados passados.
+- **Criar um novo time:** Os dados serão passados como uma nova opção de time.
+
+<br>
+
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/organo-time.png" alt="Seção de Time Front-end">
+
+<br>
+
+- **Seção de Time:** A seção só aparece caso tenha ao menos 1 colaborador;
+- **Input Color:** Permite alterar a cor da seção livremente;
+- **x:** Apaga o colaborador da seção do time;
+- **"coração":** Ao ser clicado alterna entre preenchido e não preenchido.
+
+Obs.: Nenhum dado é persistido. Assim, toda vez que recarregar a página voltara ao seu estado inicial.
 
 ## Tecnolgias Utilizadas
 
