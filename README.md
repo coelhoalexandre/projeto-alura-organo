@@ -84,8 +84,6 @@ Logo abaixo estão os meus principais links, fique a vontade de acessar o que ma
 
 <br>
 
-<br>
-
 <div align="center">
 
 <a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
