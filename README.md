@@ -12,10 +12,7 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
+- [Layout](#layout)
 - [Adaptações](#adaptações)
 - [Autor](#autor)
 
@@ -29,7 +26,7 @@ Esses cursos focam em ensinar o básico do react e o necessario para iniciar as 
 
 ## Objetivos do Projeto
 
-- Fazer uma aplicação React com Create React App do zero;
+- Fazer uma aplicação React com **Create React App** do zero;
 - Aprender as vantagens da utilização do React;
 - Implementar componentes reativos;
 - Modificar e evoluir componentes de acordo com as necessidades do projeto;
@@ -70,19 +67,18 @@ Obs.: Nenhum dado é persistido. Assim, toda vez que recarregar a página voltar
 3. JS
 4. React
 
-## Layouts
+## Layout
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
+**Width 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/organo-1280px.jpg
 
 ## Adaptações
 
+- Adição da opção padrão em Time "Escolha um";
+- Não ser possivel enviar o formulario com essa opção, surgindo um alert na tentativa.
+
 ## Autor
 
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Fiz ese projeto com as instruções de [**Paulo Silveira**](https://github.com/peas), [**Vinicios Neves**](https://github.com/viniciosneves) e [**Luiz Fernando**](https://github.com/lfrprazeres).
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
